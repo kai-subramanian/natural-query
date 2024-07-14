@@ -17,6 +17,7 @@
     <li>The UI is unpolished, and without any UX appeal. Hence I will discuss with UX designers and give it better aesthetics, using customer input to improve retention.</li>
   </ul>
 </li>
+<br><br>
 Steps to run the program - <br>
 1. Clone the frontend code from https://github.com/kai-subramanian/natural-query <br>
 2. Clone the backend API repo from https://github.com/kai-subramanian/bytegenie <br>
